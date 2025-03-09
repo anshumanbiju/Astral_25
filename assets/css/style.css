@@ -2183,7 +2183,7 @@ a {
 }
 
 #lineDrawing {
-  background: var(--primary-color);
+  background: #020202;;
   margin: 0px;
   width: 100%;
   height: 100vh;
